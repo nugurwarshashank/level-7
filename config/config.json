@@ -8,7 +8,7 @@
   },
   "test": {
     "username": "postgres",
-    "password": "vishnu3081",
+    "password": "shashank",
     "database": "wd-todo-test",
     "host": "127.0.0.1",
     "dialect": "postgres"
